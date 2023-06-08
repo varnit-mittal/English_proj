@@ -315,7 +315,7 @@ if(select=='Confirm'):
     st.markdown("<h3 style='text-align: center; color: orange;'>Please Click the Below Confirm Button to start Building</h3>", unsafe_allow_html=True)
     if(st.button('Confirm')):
         sleep(2)
-        st.markdown("<h3 style='text-align: center; color: orange;'>Your show is building</h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='text-align: center; color: orange;'>Your shoe is building</h3>", unsafe_allow_html=True)
         sleep(1)
         st.markdown("<h3 style='text-align: center; color: orange;'>Thanks for Your Patience</h3>", unsafe_allow_html=True)
 
